@@ -1,0 +1,15 @@
+{
+  "Bacterialblight": "Use copper-based bactericides such as copper sulfate. Spray during the early stages of infection. Avoid over-irrigation and ensure good water drainage.",
+  "Blast": "Apply fungicides like Tricyclazole or Isoprothiolane. Use disease-resistant varieties and avoid dense planting to reduce humidity.",
+  "Brownspot": "Use fungicides like Mancozeb. Ensure balanced plant nutrition, especially potassium. Avoid drought stress and excessive nitrogen.",
+  "Tungro": "There is no direct cure for Tungro virus. Use resistant rice varieties and control insect vectors like green leafhoppers using insecticides such as Imidacloprid.",
+  "Tomato___Bacterial_spot": "Apply copper-based bactericides or antibiotics like Streptomycin. Remove and destroy infected leaves. Avoid overhead watering to reduce moisture.",
+  "Tomato___Early_blight": "Use fungicides such as Chlorothalonil or Mancozeb. Practice crop rotation and ensure proper plant spacing for good airflow.",
+  "Tomato___Late_blight": "Treat with fungicides like Metalaxyl or Dimethomorph. Remove infected leaves immediately and avoid high humidity environments.",
+  "Tomato___Leaf_Mold": "Improve greenhouse ventilation and apply fungicides like Mancozeb. Reduce moisture around the plants.",
+  "Tomato___Septoria_leaf_spot": "Use fungicides such as Chlorothalonil. Remove affected leaves and avoid overhead irrigation to prevent spreading.",
+  "Tomato___Spider_mites Two-spotted_spider_mite": "Apply miticides such as Abamectin. Spray plants with strong water jets to reduce mites. Introduce beneficial predatory insects if possible.",
+  "Tomato___Target_Spot": "Apply fungicides like Azoxystrobin. Remove infected leaves and maintain proper spacing between plants for better air circulation.",
+  "Tomato___Tomato_mosaic_virus": "There is no direct treatment. Remove and destroy infected plants. Use certified virus-free seeds and avoid handling infected plants.",
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": "Control the whitefly vector using insecticides such as Imidacloprid. Use resistant tomato varieties and insect-proof nets."
+}
