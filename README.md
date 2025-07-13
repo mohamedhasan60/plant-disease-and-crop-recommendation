@@ -23,7 +23,6 @@ plant-disease-and-crop-recommendation/
 │   ├─ plant_disease_model.keras    
 │   ├─ training_plots.png
 │   ├─ confusion_matrix.png
-│   └─ class_indices.json
 │
 └─ esp32_code/
     └─ esp32_firmware.ino
