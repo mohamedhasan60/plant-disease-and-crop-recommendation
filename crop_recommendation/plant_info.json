@@ -1,0 +1,200 @@
+{
+  "Apple": {
+    "details": "Requires temperature 15-25°C, humidity 50-70%. Thrives in temperate climates with well-drained soil.",
+    "season": "Best grown in temperate seasons, primarily spring and summer.",
+    "planting_period": "Plant bare-root trees or potted saplings in early spring (March to April) or late fall (October to November) when the soil is workable.",
+    "planting_method": "Plant in a sunny location with well-drained, loamy soil enriched with organic matter. Space trees 15-20 feet apart, and ensure good air circulation. Stake young trees for support and prune annually.",
+    "harvesting_method": "Harvest when apples are fully colored and firm, typically 120-150 days after flowering (late summer to early fall, August to October). Gently twist or use pruning shears to pick fruit without damaging the branch.",
+    "image_path": "images/Apple.jpeg"
+  },
+
+  "Banana": {
+    "details": "Requires temperature 25-30°C, humidity 70-90%. Thrives in tropical and subtropical climates with rich, moist soil.",
+    "season": "Best grown in warm, humid seasons, typically year-round in tropical regions.",
+    "planting_period": "Plant suckers or rhizomes in spring (March to May) or early summer (June) when temperatures consistently stay above 20°C.",
+    "planting_method": "Plant in a sunny, wind-protected area with well-drained, fertile soil high in organic matter. Space plants 8-10 feet apart, and dig a hole deep enough to accommodate the root system. Water regularly to keep the soil consistently moist.",
+    "harvesting_method": "Harvest when bananas are plump and yellow with slightly green tips, typically 9-12 months after planting. Cut the entire bunch using a sharp knife, and handle carefully to avoid bruising the fruit.",
+    "image_path": "images/Banana.jpeg"
+  },
+
+  "Blackgram": {
+    "details": "Requires temperature 25-35°C, humidity 60-80%. Thrives in warm, humid climates with loamy soil.",
+    "season": "Best grown in rainy (Kharif) or summer seasons in tropical regions.",
+    "planting_period": "Sow seeds from mid-June to late July for Kharif, or February to April for summer crops.",
+    "planting_method": "Sow seeds directly in well-drained, loamy soil with full sun, 2-3 cm deep, spaced 10-15 cm apart. Ensure soil is enriched with organic matter.",
+    "harvesting_method": "Harvest when 80% of pods turn black, about 80-95 days after sowing. Pick pods by hand or cut plants, dry them for a week, then thresh by beating to separate seeds.",
+    "image_path": "images/Blackgram.jpeg"
+  },
+
+  "Chickpea": {
+    "details": "Requires temperature 15-30°C, humidity 50-70%. Thrives in dry, warm climates with well-drained soil.",
+    "season": "Best grown in cool, dry seasons, typically rabi (winter) season.",
+    "planting_period": "Sow seeds from October to November for a winter harvest.",
+    "planting_method": "Sow seeds directly in well-drained, sandy loam soil with full sun, 5-10 cm deep, spaced 10-15 cm apart. Ensure good soil preparation and minimal waterlogging.",
+    "harvesting_method": "Harvest when plants turn yellow and pods dry, about 90-120 days after sowing. Pull plants by hand or cut at the base, dry them, and thresh to collect seeds.",
+    "image_path": "images/Chickpea.jpeg"
+  },
+
+  "Coconut": {
+    "details": "Requires temperature 25-35°C, humidity 80-90%. Thrives in tropical climates with sandy, well-drained soil.",
+    "season": "Best grown in warm, humid seasons, year-round in tropical regions.",
+    "planting_period": "Plant seedlings from May to July during the rainy season for best growth.",
+    "planting_method": "Plant mature nuts or seedlings in sandy, well-drained soil with full sun, 30-50 cm deep, spaced 25-30 feet apart. Water regularly and protect from strong winds.",
+    "harvesting_method": "Harvest when coconuts are mature (green or brown), about 10-12 months after flowering. Use a ladder or trained climbers to pick or cut bunches with a sharp tool.",
+    "image_path": "images/Coconut.jpeg"
+  },
+
+  "Coffee": {
+    "details": "Requires temperature 15-24°C, humidity 70-90%. Thrives in tropical climates with rich, well-drained soil.",
+    "season": "Best grown in mild, humid seasons, year-round in tropical regions.",
+    "planting_period": "Plant seedlings from May to June during the rainy season.",
+    "planting_method": "Plant in shaded areas with fertile, loamy soil, 1-2 meters apart. Use shade trees to protect from direct sun and maintain soil moisture.",
+    "harvesting_method": "Harvest when berries turn red, about 8-12 months after flowering. Pick by hand, strip the berries, and process (wet or dry) to extract beans.",
+    "image_path": "images/Coffee.jpeg"
+  },
+
+  "Cotton": {
+    "details": "Requires temperature 20-30°C, humidity 50-70%. Thrives in warm, semi-arid climates with well-drained soil.",
+    "season": "Best grown in summer (Kharif) season.",
+    "planting_period": "Sow seeds from May to June at the onset of monsoon.",
+    "planting_method": "Sow seeds in well-drained, loamy soil with full sun, 1-2 cm deep, spaced 45-60 cm apart. Ensure proper irrigation and weed control.",
+    "harvesting_method": "Harvest when bolls burst open, about 120-180 days after sowing. Pick cotton by hand or use machines, and dry the fibers before ginning.",
+    "image_path": "images/Cotton.jpeg"
+  },
+
+  "Grapes": {
+    "details": "Requires temperature 15-35°C, humidity 50-70%. Thrives in warm, Mediterranean climates with well-drained soil.",
+    "season": "Best grown in warm seasons, primarily spring to summer.",
+    "planting_period": "Plant cuttings or vines in late winter to early spring (February to March).",
+    "planting_method": "Plant in sunny, well-drained soil with a trellis for support, spaced 6-8 feet apart. Prune annually to promote growth and fruiting.",
+    "harvesting_method": "Harvest when grapes are fully colored and sweet, about 90-120 days after flowering (July to September). Cut clusters with scissors, avoiding damage to the vine.",
+    "image_path": "images/Grapes.jpeg"
+  },
+
+  "Jute": {
+    "details": "Requires temperature 24-35°C, humidity 70-90%. Thrives in hot, humid climates with loamy soil.",
+    "season": "Best grown in rainy (Kharif) season.",
+    "planting_period": "Sow seeds from March to April before the monsoon.",
+    "planting_method": "Sow seeds in well-drained, alluvial soil with full sun, 1-2 cm deep, spaced 25-30 cm apart. Ensure high moisture and regular weeding.",
+    "harvesting_method": "Harvest when plants flower, about 120-150 days after sowing. Cut stems at the base, soak in water for retting, then strip fibers and dry them.",
+    "image_path": "images/Jute.jpeg"
+  },
+
+  "KidneyBeans": {
+    "details": "Requires temperature 20-30°C, humidity 50-70%. Thrives in warm climates with well-drained soil.",
+    "season": "Best grown in summer or rainy (Kharif) season.",
+    "planting_period": "Sow seeds from June to July for Kharif, or March to April for summer crops.",
+    "planting_method": "Sow seeds directly in loamy soil with full sun, 2-3 cm deep, spaced 15-20 cm apart. Provide support for climbing varieties.",
+    "harvesting_method": "Harvest when pods are dry and brittle, about 90-120 days after sowing. Pick pods by hand, dry them, and shell the beans.",
+    "image_path": "images/KidneyBeans.jpeg"
+  },
+
+  "Lentil": {
+    "details": "Requires temperature 15-25°C, humidity 50-70%. Thrives in cool, dry climates with well-drained soil.",
+    "season": "Best grown in winter (Rabi) season.",
+    "planting_period": "Sow seeds from October to November.",
+    "planting_method": "Sow seeds in well-drained, sandy loam soil with full sun, 2-3 cm deep, spaced 10-15 cm apart. Avoid waterlogging.",
+    "harvesting_method": "Harvest when plants turn yellow and pods dry, about 90-110 days after sowing. Uproot plants, dry them, and thresh to collect seeds.",
+    "image_path": "images/Lentil.jpeg"
+  },
+
+  "Maize": {
+    "details": "Requires temperature 20-30°C, humidity 50-70%. Thrives in warm climates with well-drained soil.",
+    "season": "Best grown in rainy (Kharif) or summer season.",
+    "planting_period": "Sow seeds from June to July for Kharif, or February to March for summer.",
+    "planting_method": "Sow seeds in fertile, loamy soil with full sun, 2-3 cm deep, spaced 20-30 cm apart. Ensure good irrigation and weed control.",
+    "harvesting_method": "Harvest when kernels are hard and husks turn dry, about 90-120 days after sowing. Twist cobs off the stalk or cut them, then dry and shell the kernels.",
+    "image_path": "images/Maize.jpeg"
+  },
+
+  "Mango": {
+    "details": "Requires temperature 24-30°C, humidity 60-80%. Thrives in tropical and subtropical climates with well-drained soil.",
+    "season": "Best grown in warm seasons, primarily summer.",
+    "planting_period": "Plant grafted saplings in July to August during the rainy season.",
+    "planting_method": "Plant in a sunny spot with loamy, well-drained soil, spaced 25-30 feet apart. Dig a deep hole, add compost, and water regularly until established.",
+    "harvesting_method": "Harvest when fruits are mature and slightly soft, about 3-5 months after flowering (May to July). Use a long pole with a net or cut fruits with a portion of the stem.",
+    "image_path": "images/Mango.jpeg"
+  },
+
+  "MothBeans": {
+    "details": "Requires temperature 25-35°C, humidity 50-70%. Thrives in hot, semi-arid climates with sandy soil.",
+    "season": "Best grown in rainy (Kharif) season.",
+    "planting_period": "Sow seeds from June to July with the onset of monsoon.",
+    "planting_method": "Sow seeds in well-drained, sandy soil with full sun, 1-2 cm deep, spaced 15-20 cm apart. Minimal irrigation needed as it tolerates drought.",
+    "harvesting_method": "Harvest when pods turn brown and dry, about 90-100 days after sowing. Pick pods by hand, dry them, and thresh to separate seeds.",
+    "image_path": "images/MothBeans.jpeg"
+  },
+
+  "MungBeans": {
+    "details": "Requires temperature 25-35°C, humidity 50-70%. Thrives in warm climates with loamy soil.",
+    "season": "Best grown in rainy (Kharif) or summer season.",
+    "planting_period": "Sow seeds from June to July for Kharif, or March to April for summer.",
+    "planting_method": "Sow seeds in well-drained, loamy soil with full sun, 2-3 cm deep, spaced 15-20 cm apart. Ensure moderate irrigation and weed control.",
+    "harvesting_method": "Harvest when pods turn dark and dry, about 60-90 days after sowing. Pick pods by hand, dry them, and thresh to collect seeds.",
+    "image_path": "images/MungBeans.jpeg"
+  },
+
+  "Muskmelon": {
+    "details": "Requires temperature 25-35°C, humidity 60-80%. Thrives in warm, sunny climates with sandy loam soil.",
+    "season": "Best grown in summer season.",
+    "planting_period": "Sow seeds from February to April when temperatures are consistently above 20°C.",
+    "planting_method": "Sow seeds in well-drained, sandy loam soil with full sun, 1-2 cm deep, spaced 45-60 cm apart. Provide trellis support for vines and ensure regular watering.",
+    "harvesting_method": "Harvest when fruits turn yellow and slip off the vine easily, about 70-90 days after sowing. Cut the fruit with a sharp knife, leaving a short stem.",
+    "image_path": "images/Muskmelon.jpeg"
+  },
+
+  "Orange": {
+    "details": "Requires temperature 20-30°C, humidity 50-70%. Thrives in subtropical climates with well-drained soil.",
+    "season": "Best grown in warm seasons, primarily spring to summer.",
+    "planting_period": "Plant saplings in spring (March to April) or early fall (September to October).",
+    "planting_method": "Plant in a sunny spot with sandy, well-drained soil, spaced 15-20 feet apart. Add compost to the soil and water regularly to keep it moist but not waterlogged.",
+    "harvesting_method": "Harvest when fruits are fully colored and firm, about 8-12 months after flowering (October to January). Twist or cut fruits with a small portion of the stem.",
+    "image_path": "images/Orange.jpeg"
+  },
+
+  "Papaya": {
+    "details": "Requires temperature 25-35°C, humidity 60-80%. Thrives in tropical climates with rich, well-drained soil.",
+    "season": "Best grown in warm, humid seasons, year-round in tropical regions.",
+    "planting_period": "Sow seeds or plant seedlings from March to June during warm weather.",
+    "planting_method": "Sow seeds in well-drained, loamy soil with full sun, 1 cm deep, spaced 8-10 feet apart. Protect from frost and ensure regular watering.",
+    "harvesting_method": "Harvest when fruits are mostly yellow and slightly soft, about 9-12 months after planting. Cut fruits with a sharp knife, leaving a short stem.",
+    "image_path": "images/Papaya.jpeg"
+  },
+
+  "Pigeonpea": {
+    "details": "Requires temperature 20-35°C, humidity 50-70%. Thrives in warm, semi-arid climates with well-drained soil.",
+    "season": "Best grown in rainy (Kharif) season.",
+    "planting_period": "Sow seeds from June to July with the onset of monsoon.",
+    "planting_method": "Sow seeds in loamy, well-drained soil with full sun, 2-3 cm deep, spaced 30-45 cm apart. Provide support for tall varieties and maintain moisture.",
+    "harvesting_method": "Harvest when 75% of pods turn brown, about 150-180 days after sowing. Cut plants at the base, dry them, and thresh to collect seeds.",
+    "image_path": "images/Pigeonpea.jpeg"
+  },
+
+  "Pomegranate": {
+    "details": "Requires temperature 20-35°C, humidity 50-70%. Thrives in warm, arid climates with well-drained soil.",
+    "season": "Best grown in hot, dry seasons, primarily summer.",
+    "planting_period": "Plant saplings in spring (February to March) or early monsoon (June to July).",
+    "planting_method": "Plant in a sunny spot with sandy loam soil, spaced 10-15 feet apart. Dig a deep hole, add compost, and water sparingly as it tolerates drought.",
+    "harvesting_method": "Harvest when fruits turn deep red and sound metallic when tapped, about 5-7 months after flowering (September to November). Cut fruits with a small portion of the stem.",
+    "image_path": "images/Pomegranate.jpeg"
+  },
+
+  "Rice": {
+    "details": "Requires temperature 20-35°C, humidity 70-90%. Thrives in warm, humid climates with flooded fields.",
+    "season": "Best grown in rainy (Kharif) season.",
+    "planting_period": "Sow seeds from June to July with the onset of monsoon.",
+    "planting_method": "Sow seeds in a nursery, then transplant seedlings after 20-30 days into flooded fields with clayey soil, spaced 15-20 cm apart. Maintain 2-5 cm water depth.",
+    "harvesting_method": "Harvest when 80% of grains turn golden, about 120-150 days after sowing. Cut stalks with a sickle, dry them, and thresh to separate grains.",
+    "image_path": "images/Rice.jpeg"
+  },
+
+  "Watermelon": {
+    "details": "Requires temperature 25-35°C, humidity 60-80%. Thrives in warm, sunny climates with sandy loam soil.",
+    "season": "Best grown in summer season.",
+    "planting_period": "Sow seeds from February to April when temperatures are above 20C.",
+    "planting_method": "Sow seeds in well-drained, sandy loam soil with full sun, 2-3 cm deep, spaced 60-90 cm apart. Provide trellis or space for vines and water regularly.",
+    "harvesting_method": "Harvest when fruits sound hollow when tapped and the underside turns yellow, about 75-90 days after sowing. Cut the fruit with a sharp knife, leaving a short stem.",
+    "image_path": "images/Watermelon.jpeg"
+  }
+  
+}
